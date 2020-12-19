@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    background-attachment: fixed;
+    background-size:cover ;
+    background-color: white;
+
+}
+ul {
+    width: 100%;
+    list-style-type:none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color:black;
+  }
+  li {
+    float:left;
+  }
+  
+  li a {
+    display: block;
+    color:white;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  li a:hover {
+    background-color:red;
+  }
